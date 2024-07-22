@@ -14,7 +14,6 @@ Welcome to the Paddle vs Tennis Classification Project! This project focuses on 
 - [Model Training](#model-training)
 - [Evaluation](#evaluation)
 - [Results](#results)
-- [License](#license)
 - [Contributing](#contributing)
 - [Contact](#contact)
 
@@ -84,8 +83,6 @@ The dataset for this project consists of labeled images of paddle and tennis. Th
 We used various machine learning models for classification, including:
 
 - **Support Vector Machines (SVM)**
-- **Convolutional Neural Networks (CNN)**
-- **K-Nearest Neighbors (KNN)**
 
 The best-performing model was selected based on cross-validation and evaluation metrics.
 
