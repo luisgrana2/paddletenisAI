@@ -36,7 +36,7 @@ To get started with this project, follow the instructions below to set up your e
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/paddle-vs-tennis-classification.git
+    git clone https://github.com/luisgrana2/paddletenisAI.git
     ```
 
 2. **Navigate to the project directory:**
