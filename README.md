@@ -111,4 +111,4 @@ We welcome contributions to improve this project! Please fork the repository and
 For any questions or inquiries, please contact:
 
 - **Luis Granados** - [lgsgranados@gmail.com](mailto:lgsgranados@gmail.com)
-- **GitHub Profile** - [luisgrana2]([https://github.com/yourusername](https://github.com/luisgrana2])
+- **GitHub Profile** - [luisgrana2]([https://github.com/yourusername](https://github.com/luisgrana2)
