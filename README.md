@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Paddle vs Tennis Classification Project! This project focuses on developing a machine learning model to distinguish between features of paddle and tennis sports. By leveraging advanced classification techniques, our goal is to accurately classify images into either the paddle or tennis category. This project is ideal for demonstrating skills in machine learning.
+Welcome to the Paddle vs Tennis Classification Project! This project focuses on developing a machine learning model to distinguish between features (acceleration) of paddle and tennis sports. By leveraging advanced classification techniques, our goal is to accurately classify images into either the paddle or tennis category. This project is ideal for demonstrating skills in machine learning.
 
 ## Table of Contents
 
@@ -54,7 +54,7 @@ To get started with this project, follow the instructions below to set up your e
 
 To use the classifier, follow these steps:
 
-1. **Prepare your dataset:** Ensure that your images are organized into 'pl' and 'tl' directories within the `data` folder.
+1. **Prepare your dataset:** Ensure that your images are organized into 'pl' and 'tl' directories within the `data` folder. [DataSet](https://www.dropbox.com/scl/fo/lavmrileb4d7olcy0jh90/ABZszViGbK9945CHZthSJq8?rlkey=jx2k6er74xwxykyeo5pwlmpys&st=5a2c42mp&dl=0)
 2. **Run the training script, evalute the model and classify:**
 
     ```bash
@@ -63,7 +63,9 @@ To use the classifier, follow these steps:
 
 ## Data
 
-The dataset for this project consists of labeled images of paddle and tennis. The images are organized into two directories: `data/pl` and `data/tl`. Ensure your dataset follows this structure for the code to work correctly.
+The dataset for this project consists of accelerations in the 3 different axis for paddle and tennis. The data is organized into two directories: `data/pl` and `data/tl`. Ensure your dataset follows this structure for the code to work correctly.
+
+The data for this project was obtained using the MATLAB mobile application, that use phone sensors to record the accelerations. The creators of the code played real matches to collect this data, ensuring its authenticity and relevance for training and testing the classification models.
 
 ## Model Training
 
