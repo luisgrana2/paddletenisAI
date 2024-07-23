@@ -42,7 +42,7 @@ To get started with this project, follow the instructions below to set up your e
 2. **Navigate to the project directory:**
 
     ```bash
-    cd paddle-vs-tennis-classification
+    cd paddletenisAI
     ```
 
 3. **Install required packages:**
