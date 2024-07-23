@@ -55,23 +55,11 @@ To get started with this project, follow the instructions below to set up your e
 
 To use the classifier, follow these steps:
 
-1. **Prepare your dataset:** Ensure that your images are organized into 'paddle' and 'tennis' directories within the `data` folder.
-2. **Run the training script:**
+1. **Prepare your dataset:** Ensure that your images are organized into 'pl' and 'tl' directories within the `data` folder.
+2. **Run the training script, evalute the model and classify:**
 
     ```bash
-    python train_model.py
-    ```
-
-3. **Evaluate the model:**
-
-    ```bash
-    python evaluate_model.py
-    ```
-
-4. **Classify new images:**
-
-    ```bash
-    python classify_images.py --image_path /path/to/image.jpg
+    python source.ipynb
     ```
 
 ## Data
