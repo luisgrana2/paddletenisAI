@@ -2,7 +2,7 @@
 
 ## Overview
 
-Welcome to the Paddle vs Tennis Classification Project! This project focuses on developing a machine learning model to distinguish between images of paddle and tennis sports. By leveraging advanced image processing and classification techniques, our goal is to accurately classify images into either the paddle or tennis category. This project is ideal for demonstrating skills in image classification and machine learning.
+Welcome to the Paddle vs Tennis Classification Project! This project focuses on developing a machine learning model to distinguish between features of paddle and tennis sports. By leveraging advanced classification techniques, our goal is to accurately classify images into either the paddle or tennis category. This project is ideal for demonstrating skills in machine learning.
 
 ## Table of Contents
 
@@ -23,9 +23,8 @@ This project uses computer vision techniques and machine learning algorithms to 
 
 ## Features
 
-- **Image Preprocessing:** Techniques for noise reduction, normalization, and enhancement.
 - **Feature Extraction:** Utilization of advanced features for better classification accuracy.
-- **Machine Learning Models:** Implementation of various models to find the best classifier.
+- **Machine Learning Models:** Implementation of various parameters and techniques to find the best SVM classifier.
 - **Evaluation Metrics:** Comprehensive evaluation of model performance using metrics like accuracy, F1-score, and confusion matrix.
 - **Visualization:** Graphical representation of results including decision boundaries and confusion matrices.
 
@@ -64,7 +63,7 @@ To use the classifier, follow these steps:
 
 ## Data
 
-The dataset for this project consists of labeled images of paddle and tennis. The images are organized into two directories: `data/paddle` and `data/tennis`. Ensure your dataset follows this structure for the code to work correctly.
+The dataset for this project consists of labeled images of paddle and tennis. The images are organized into two directories: `data/pl` and `data/tl`. Ensure your dataset follows this structure for the code to work correctly.
 
 ## Model Training
 
