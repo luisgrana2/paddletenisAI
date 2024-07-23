@@ -19,12 +19,12 @@ Welcome to the Paddle vs Tennis Classification Project! This project focuses on 
 
 ## Project Description
 
-This project uses computer vision techniques and machine learning algorithms to classify images of paddle and tennis. We apply image preprocessing, feature extraction, and classification methods to achieve high accuracy. The end result is a robust classifier that can differentiate between the two sports based on image data.
+This project uses machine learning algorithms to classify images of paddle and tennis. We apply feature extraction, and classification methods to achieve high accuracy. The end result is a robust classifier that can differentiate between the two sports based on acceleration data.
 
 ## Features
 
 - **Feature Extraction:** Utilization of advanced features for better classification accuracy.
-- **Machine Learning Models:** Implementation of various parameters and techniques to find the best SVM classifier.
+- **Machine Learning Models:** Implementation of various parameters and techniques to find the best Support Vector Machines (SVM) classifier.
 - **Evaluation Metrics:** Comprehensive evaluation of model performance using metrics like accuracy, F1-score, and confusion matrix.
 - **Visualization:** Graphical representation of results including decision boundaries and confusion matrices.
 
@@ -71,7 +71,7 @@ The data for this project was obtained using the MATLAB mobile application, that
 
 We used various machine learning models for classification, including:
 
-- **Support Vector Machines (SVM)**
+- **SVM** were chosen for this project due to their high precision and effectiveness with the volume of data obtained. Given the nature of our data and the need for accurate classification, SVMs provide robust performance and reliable results.
 
 The best-performing model was selected based on cross-validation and evaluation metrics.
 
