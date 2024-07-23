@@ -101,3 +101,4 @@ For any questions or inquiries, please contact:
 
 - **Luis Granados** - [lgsgranados@gmail.com](mailto:lgsgranados@gmail.com)
 - **GitHub Profile** - [luisgrana2](https://github.com/luisgrana2)
+- **LinkedIn Profile** - [Luis Granados](https://www.linkedin.com/in/luis-granados-segura-099290222/)
