@@ -1,6 +1,6 @@
 # Paddle vs Tennis Classification Project
 
-<img src="https://github.com/user-attachments/assets/596195ef-cc62-4f76-a22d-ab4018701a60" width="50%" height="50%">
+<img src="https://github.com/user-attachments/assets/596195ef-cc62-4f76-a22d-ab4018701a60" width="25%" height="25%">
 
 ## Overview
 
