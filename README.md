@@ -94,20 +94,20 @@ These metrics provide a comprehensive understanding of the classifier's performa
 
 ## Results
 <div align = "center">
-  ![output](https://github.com/user-attachments/assets/d46c295d-f4b1-4cb1-8e7f-7bcfe2ba25d5)
+  <img src="https://github.com/user-attachments/assets/d46c295d-f4b1-4cb1-8e7f-7bcfe2ba25d5" />
 </div>
 The project results indicate the accuracy and effectiveness of the classifier in distinguishing between paddle and tennis images. Visualizations include confusion matrices and decision boundaries that illustrate the model's performance.
 
 With a sigmoid kernel, a C of 0.1, and a gamma of 10, obtained as the best case through cross-validation, the model achieves an accuracy of 82%, validating the main hypothesis and efficiently classifying both sports.
 
 <div align = "center">
-  | Class      | Precision | Recall | F1-Score | Support |
-  |------------|-----------|--------|----------|---------|
-  | Paddle          | 0.80      | 0.89   | 0.84     | 9       |
-  | Tenis          | 0.86      | 0.75   | 0.80     | 8       |
-  | **Accuracy**  |           |        | 0.82     | 17      |
-  | **Macro Avg** | 0.83      | 0.82   | 0.82     | 17      |
-  | **Weighted Avg** | 0.83  | 0.82   | 0.82     | 17      |
+| Class      | Precision | Recall | F1-Score | Support |
+|------------|-----------|--------|----------|---------|
+| Paddle          | 0.80      | 0.89   | 0.84     | 9       |
+| Tenis          | 0.86      | 0.75   | 0.80     | 8       |
+| **Accuracy**  |           |        | 0.82     | 17      |
+| **Macro Avg** | 0.83      | 0.82   | 0.82     | 17      |
+| **Weighted Avg** | 0.83  | 0.82   | 0.82     | 17      |
 </div>
 
 ## Contributing
