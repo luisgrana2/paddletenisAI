@@ -96,7 +96,7 @@ These metrics provide a comprehensive understanding of the classifier's performa
 
 The project results indicate the accuracy and effectiveness of the classifier in distinguishing between paddle and tennis images. Visualizations include confusion matrices and decision boundaries that illustrate the model's performance.
 
-![image](https://github.com/user-attachments/assets/82ae5ac8-6fc3-41f7-a336-074fa67556fb)
+<div align = "center">
 
 
 | Class      | Precision | Recall | F1-Score | Support |
@@ -106,6 +106,7 @@ The project results indicate the accuracy and effectiveness of the classifier in
 | **Accuracy**  |           |        | 0.82     | 17      |
 | **Macro Avg** | 0.83      | 0.82   | 0.82     | 17      |
 | **Weighted Avg** | 0.83  | 0.82   | 0.82     | 17      |
+</div>
 
 ## Contributing
 
