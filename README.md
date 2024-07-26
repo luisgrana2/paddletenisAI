@@ -101,8 +101,8 @@ The project results indicate the accuracy and effectiveness of the classifier in
 
 | Class      | Precision | Recall | F1-Score | Support |
 |------------|-----------|--------|----------|---------|
-| P          | 0.80      | 0.89   | 0.84     | 9       |
-| T          | 0.86      | 0.75   | 0.80     | 8       |
+| Paddle          | 0.80      | 0.89   | 0.84     | 9       |
+| Tenis          | 0.86      | 0.75   | 0.80     | 8       |
 | **Accuracy**  |           |        | 0.82     | 17      |
 | **Macro Avg** | 0.83      | 0.82   | 0.82     | 17      |
 | **Weighted Avg** | 0.83  | 0.82   | 0.82     | 17      |
