@@ -1,4 +1,5 @@
 # Paddle vs Tennis Classification Project
+![chica-padel-MissPadel](https://github.com/user-attachments/assets/596195ef-cc62-4f76-a22d-ab4018701a60)
 
 ## Overview
 
